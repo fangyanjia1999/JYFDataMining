@@ -6,12 +6,15 @@
 
 https://github.com/fangyanjia1999/JYFDataMining
 
+<img width="680" alt="10" src="https://github.com/fangyanjia1999/JYFDataMining/assets/150905563/d4d68a9c-8360-4004-88eb-2afcc63add01">
+
 ## 上传 PPT
 
 1. 将自己的 PPT 文件准备好。
 2. 进入 `jyfDataMining` 仓库。
 3. 点击 "Upload files" 按钮，将 PPT 文件上传到仓库中。
 4. https://github.com/fangyanjia1999/JYFDataMining/blob/main/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%9892339103-%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF-%E8%B4%BE%E8%89%B3%E8%8A%B3%5D.pptx
+6. <img width="701" alt="11" src="https://github.com/fangyanjia1999/JYFDataMining/assets/150905563/124f99a0-eeab-47a0-8ce4-9e7af4fb0e28">
 
 ## 我想学习的计算机技能
 
