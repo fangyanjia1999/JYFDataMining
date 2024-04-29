@@ -11,7 +11,7 @@ https://github.com/fangyanjia1999/JYFDataMining
 1. 将自己的 PPT 文件准备好。
 2. 进入 `jyfDataMining` 仓库。
 3. 点击 "Upload files" 按钮，将 PPT 文件上传到仓库中。
-4. 
+4. https://github.com/fangyanjia1999/JYFDataMining/blob/main/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%9892339103-%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF-%E8%B4%BE%E8%89%B3%E8%8A%B3%5D.pptx
 
 ## 我想学习的计算机技能
 
